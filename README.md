@@ -1,3 +1,3 @@
 ## TIL
 
-[postgresql 기초 정리](./https://github.com/kisyam/TIL/tree/master/java19jdbc_postgresql)
+### 221123 알고리즘 수업 첫날
