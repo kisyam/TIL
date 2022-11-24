@@ -11,4 +11,4 @@
 O(1)의 조회시간을 가진다는 큰 장점
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kisyam)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kisyam)]
