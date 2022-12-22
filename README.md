@@ -23,3 +23,5 @@
 ## CSS
 + SCSS
 + PICO
+## ERROR
++ [AWS_ETIMEDOUT 에러 해결](./error/AWS_ETIMEDOUT_Error.md)
