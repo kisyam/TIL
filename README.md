@@ -22,7 +22,6 @@
 - [Node.js](./javascript/nodejs.md)
 - [Promise.all](https://velog.io/@kisyam/Promiseall)
 - [Promise.race](https://velog.io/@kisyam/Promise.race)
-- [Promise.race](https://external.ink?to=/velog.io/@kisyam/Promise.race)
 
 ## 파이썬(Python)
 
