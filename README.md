@@ -20,8 +20,8 @@
 
 - [Express.js](./javascript/express.md)
 - [Node.js](./javascript/nodejs.md)
-- [Promise.all](https://velog.io/@kisyam/Promiseall){:target="\_blank"}
-- [Promise.race](https://velog.io/@kisyam/Promise.race){:target="\_blank"}
+- [Promise.all](https://velog.io/@kisyam/Promiseall){target="\_blank"}
+- [Promise.race](https://velog.io/@kisyam/Promise.race){target="\_blank"}
 
 ## 파이썬(Python)
 
