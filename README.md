@@ -20,7 +20,7 @@
 
 - [Express.js](./javascript/express.md)
 - [Node.js](./javascript/nodejs.md)
-- [Promise.all]('https://velog.io/@kisyam/Promiseall')
+- [Promise.all](https://velog.io/@kisyam/Promiseall)
 
 ## 파이썬(Python)
 
