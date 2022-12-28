@@ -22,6 +22,7 @@
 - [Node.js](./javascript/nodejs.md)
 - [Promise.all](https://velog.io/@kisyam/Promiseall)
 - [Promise.race](https://velog.io/@kisyam/Promise.race)
+- [Logical Assignment Operators](https://velog.io/@kisyam/TIL221227)
 
 ## 파이썬(Python)
 
