@@ -12,7 +12,8 @@
 
 ## 자바(Java)
 
-- ### STS3(Spring Tool Suite 3)
+### STS3(Spring Tool Suite 3)
+
 - [PostgreSQL](./java/java19jdbc_postgresql/src/test/com/board/BoardMain.java)
 - [PostgreSQL](./java/java19jdbc_postgresql/src/test/com/board/BoardMenu.java)
 
