@@ -27,7 +27,7 @@
 
 ## 파이썬(Python)
 
-- Flask 개발 환경 구축
+- [Flask 개발 환경 구축](./Python/pymysql.md)
 
 ## HTML
 
