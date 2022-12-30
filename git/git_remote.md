@@ -10,6 +10,9 @@
 git remote -v
 ```
 
+명령어를 실행하면 연결된 원격저장소의 정보를 보여준다.
+<image src="https://user-images.githubusercontent.com/104766571/210096667-8cf75441-1ca8-40d0-ab04-8de855d176c2.png">
+
 ---
 
 > 연결되어 있는 원격 저장소 끊기!
@@ -17,6 +20,14 @@ git remote -v
 ```
 git remote remove origin
 git remote -v
+```
+
+---
+
+> 원격 저장소의 상세정보 확인 가능 및 브랜치 정보도 확인 가능
+
+```
+git remote show origin
 ```
 
 ---
