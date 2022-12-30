@@ -41,8 +41,7 @@
 
 ## CSS
 
-- SCSS
-- PICO
+## SCSS
 
 ## ERROR
 
