@@ -1,4 +1,4 @@
-<image src="https://velog.velcdn.com/cloudflare/hippohami/763f57f5-5b66-4a2f-a117-79e603de2967/git.png">
+<image src="https://velog.velcdn.com/cloudflare/hippohami/763f57f5-5b66-4a2f-a117-79e603de2967/git.png" width=400>
 
 # stash
 
