@@ -1,6 +1,6 @@
 # Today I Learned (TIL)
 
-    하루동안 공부한 내용을 정리해서 미래의 나에게 선물로
+    이 기록은 나의 뇌를 컴퓨터화 하기 위한 버전관리 시스템이다.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kisyam)](https://velog.io/@kisyam)
 
