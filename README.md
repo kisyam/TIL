@@ -34,7 +34,7 @@
 ## Git(깃)
 
 - [git remote](./git/git_remote.md)
-- [git stash]()
+- [git stash](./git/git_stash.md)
 
 ## HTML
 
