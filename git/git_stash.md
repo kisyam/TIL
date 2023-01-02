@@ -51,9 +51,5 @@ git stash pop
 
 ### 참고한 사이트
 
-<<<<<<< HEAD
-https://www.boostcourse.org/web344/lecture/35143?isDesc=false/
-=======
 https://www.boostcourse.org/web344/lecture/35143?isDesc=false  
->>>>>>> fe63238423017239f8095bac83bff0c2ac496dbe
 https://wayhome25.github.io/git/2017/04/05/git-05-stash/
